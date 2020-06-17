@@ -8,3 +8,7 @@ Solutions to the problem solving section of HackerRank
 * The Full Counting Sort
   * [Question](https://www.hackerrank.com/challenges/countingsort4/problem)
   * [Answer](https://github.com/Zafirmk/HackerRank-Solutions/blob/master/TheFullCountingSort.py)
+
+* Organizing Containers of Balls
+  * [Question](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)
+  * [Answer](https://github.com/Zafirmk/HackerRank-Solutions/blob/master/OrganizingContainersOfBalls.py)
