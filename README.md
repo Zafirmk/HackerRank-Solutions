@@ -12,3 +12,7 @@ Solutions to the problem solving section of HackerRank
 * Organizing Containers of Balls
   * [Question](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)
   * [Answer](https://github.com/Zafirmk/HackerRank-Solutions/blob/master/OrganizingContainersOfBalls.py)
+  
+* Cavity Map
+  * [Question](https://www.hackerrank.com/challenges/cavity-map/problem)
+  * [Answer](https://github.com/Zafirmk/HackerRank-Solutions/blob/master/CavityMap.py)
