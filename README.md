@@ -16,3 +16,10 @@ Solutions to the problem solving section of HackerRank
 * Cavity Map
   * [Question](https://www.hackerrank.com/challenges/cavity-map/problem)
   * [Answer](https://github.com/Zafirmk/HackerRank-Solutions/blob/master/CavityMap.py)
+
+* Bigger is Greater
+  * [Question](https://www.hackerrank.com/challenges/bigger-is-greater/problem)
+  * [Answer](https://github.com/Zafirmk/HackerRank-Solutions/blob/master/BiggerIsGreater.py)
+  
+  
+  
