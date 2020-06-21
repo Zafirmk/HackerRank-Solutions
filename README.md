@@ -21,5 +21,9 @@ Solutions to the problem solving section of HackerRank
   * [Question](https://www.hackerrank.com/challenges/bigger-is-greater/problem)
   * [Answer](https://github.com/Zafirmk/HackerRank-Solutions/blob/master/BiggerIsGreater.py)
   
+* Fradulent Activity Notification
+  * [Question](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem)
+  * [Answer](https://github.com/Zafirmk/HackerRank-Solutions/blob/master/FradulentActivityNotifications.py)
+  
   
   
