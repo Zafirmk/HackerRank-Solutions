@@ -23,7 +23,7 @@ Solutions to the problem solving section of HackerRank
   
 * Fradulent Activity Notification
   * [Question](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem)
-  * [Answer](https://github.com/Zafirmk/HackerRank-Solutions/blob/master/FradulentActivityNotifications.py)
+  * [Answer](https://github.com/Zafirmk/HackerRank-Solutions/blob/master/FraudulentActivityNotifications%20.py)
   
 * Sherlock and the Valid String
   * [Question](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)
