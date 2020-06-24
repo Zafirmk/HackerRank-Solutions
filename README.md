@@ -25,5 +25,9 @@ Solutions to the problem solving section of HackerRank
   * [Question](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem)
   * [Answer](https://github.com/Zafirmk/HackerRank-Solutions/blob/master/FradulentActivityNotifications.py)
   
+* Sherlock and the Valid String
+  * [Question](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)
+  * [Answer](https://github.com/Zafirmk/HackerRank-Solutions/blob/master/SherlockAndTheValidString.py)
+  
   
   
